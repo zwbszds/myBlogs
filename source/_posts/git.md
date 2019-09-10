@@ -1,15 +1,17 @@
 ---
 title: Git
 author: zwbiwf
-cover: true
+summary: 一些常用的git api 
+# cover: true
 ---
 
-# 1. Linux的命令
-
-- mkdir xxx 新建文件夹
 
 
-- vi x.txt 新建文件（Visual editor）
+
+
+-  mkdir xxx 新建文件夹
+
+-  vi x.txt 新建文件（Visual editor）
 
 
 	- 输入 i 进入编辑模式
